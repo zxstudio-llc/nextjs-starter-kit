@@ -8,7 +8,10 @@
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
         </a>
     </div>
-
+    "@trpc/client": "^10.44.1",
+    "@trpc/next": "^10.45.2",
+    "@trpc/react-query": "^10.44.1",
+    "@trpc/server": "^10.44.1",
 Everything you need to quickly build your SaaS, AI product, or any other web application fast giving you time to focus on what really matters
 
 ## Battries Include
